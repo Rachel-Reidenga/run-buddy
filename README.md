@@ -11,3 +11,5 @@ http://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Rachel Reidenga
+
+### &copy; 2019 Run Buddy, Inc
