@@ -10,6 +10,6 @@ A website that offers fitness training services.
 http://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with :heart: by Rachel Reidenga
+Made with :heart:  by Rachel Reidenga
 
 ### &copy;2019 Run Buddy, Inc
